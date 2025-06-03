@@ -31,12 +31,6 @@
 
 ---
 
-### 🐍 Contribution Snake Animation
-
-<img src="https://raw.githubusercontent.com/Tonaxe/Tonaxe/output/snake.svg" alt="Snake animation" />
-
----
-
 ### 🌐 Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/yassin-mennana/))
