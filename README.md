@@ -30,10 +30,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tonaxe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
-
----
-
-### 🌐 Links
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/yassin-mennana/))
-
